@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0 32px;
+}
+
+.title {
+    margin-top: 80px;
+    color: #FFF;
+    text-transform: uppercase;
+    font-size: 28px;
+    text-align: center;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+}
+
+.text {
+    font-style: italic;
+    color: #ffffff;
+    text-align: center;
+    font-size: 22px;
+}
