@@ -1,4 +1,5 @@
-![fortune_cookie_print](https://user-images.githubusercontent.com/87662269/198343386-68ea9eb2-4c34-48b6-83e4-8f9aad89d2d2.PNG)
+![biscoito_da_sorte_print](https://user-images.githubusercontent.com/87662269/198586359-66feeabe-aa59-4a86-9ad7-17bdf6b9eaa5.PNG)
+
 
 
 <h1 align="center">
