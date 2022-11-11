@@ -26,7 +26,7 @@ Desenvolvido com ReactJS, no intuito de por em prática tudo o que venho aprende
 ## :link: Deploy
 
 ```
-EM BREVE
+biscoitodasortereact.netlify.app
 ```
 
 ⌨️ with ❤️ by [Leonardo Barbosa](https://github.com/leonardojpereira) 😊
